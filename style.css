@@ -1,15 +1,17 @@
-/* ANANTHAA KRISNAN A/L NETHYANANTHAN */
+/* Ananthaa Krisnan A/L Nethyananthan: gaya untuk keseluruhan halaman */
 body {
     font-family: Arial, sans-serif;
     padding: 40px;
     text-align: center;
     background-color: #f9f9f9;
 }
-/* ANANTHAA KRISNAN A/L NETHYANANTHAN */
+
+/* Ananthaa Krisnan A/L Nethyananthan: gaya untuk kontena utama */
 .container {
     margin-top: 100px;
 }
-/* ANANTHAA KRISNAN A/L NETHYANANTHAN */
+
+/* Ananthaa Krisnan A/L Nethyananthan: gaya untuk butang */
 .button {
     padding: 10px 20px;
     font-size: 18px;
@@ -20,20 +22,11 @@ body {
     border-radius: 5px;
     text-decoration: none;
 }
-/* ANANTHAA KRISNAN A/L NETHYANANTHAN */
+
+/* Ananthaa Krisnan A/L Nethyananthan: gaya untuk mesej yang tersembunyi */
 .message {
     display: none;
     margin-top: 30px;
     font-size: 24px;
     color: #2E8B57;
 }
-
-/* CSS Trick: guna checkbox */
-#toggle:checked ~ .message {
-    display: block;
-}
-
-#toggle {
-    display: none;
-}
-
