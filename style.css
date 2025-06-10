@@ -1,14 +1,15 @@
+/* Ananthaa Krisnan A/L Nethyananthan: gaya untuk keseluruhan halaman */
 body {
     font-family: Arial, sans-serif;
     padding: 40px;
     text-align: center;
     background-color: #f9f9f9;
 }
-
+ /* Ananthaa Krisnan A/L Nethyananthan: gaya untuk kontena utama  */
 .container {
     margin-top: 100px;
 }
-
+/* Ananthaa Krisnan A/L Nethyananthan: gaya untuk butang */
 .button {
     padding: 10px 20px;
     font-size: 18px;
@@ -19,7 +20,7 @@ body {
     border-radius: 5px;
     text-decoration: none;
 }
-
+/* Ananthaa Krisnan A/L Nethyananthan gaya untuk mesej  */
 .message {
     display: none;
     margin-top: 30px;
@@ -35,3 +36,4 @@ body {
 #toggle {
     display: none;
 }
+
